@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 신승호
-- 👀 I’m interested in Web, Spring, Java, BigData
-- 🌱 I’m currently learning Spring, Java
+- 👀 I’m interested in Web, Security
+- 🌱 I’m currently learning Spring, Java, Security
 
 - 📦 Here is my Project List
   * [코딩_알고리즘 공부/궁금한 것들 테스트]( https://github.com/seuhong98/Coding_Study )
