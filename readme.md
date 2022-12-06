@@ -8,19 +8,19 @@
 
 
 # About me
-> Stacks
-> ![Java](https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logoColor=white)
+> Stacks  
+    ![Java](https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logoColor=white)
 
 
->  Tools
+> Tools  
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-964b00?style=flat&logoColor=white) ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white)   
 
 
-> Certificate 
+> Certificate   
     ![Certificate1](https://img.shields.io/badge/정보처리기사-000000?style=flat&logoColor=white) ![Certificate2](https://img.shields.io/badge/SQLD-000000?style=flat&logoColor=white) ![Certificate3](https://img.shields.io/badge/정보보안기사(필기)|진행중-000000?style=flat&logoColor=white)
 
 
-> Studying 
+> Studying   
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-000000?style=flat&logoColor=white)
 
 
