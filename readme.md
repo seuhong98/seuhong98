@@ -9,8 +9,7 @@
 
 # About me
 > Stacks
-
-     ![Java](https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logoColor=white)
+> ![Java](https://img.shields.io/badge/Java-CC0000?style=flat&logo=OpenJDK&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logoColor=white)
 
 
 >  Tools
